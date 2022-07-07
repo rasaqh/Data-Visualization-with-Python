@@ -1,0 +1,66 @@
+Data Analytics Skill
+=======================
+www.darkhorseanalytics.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow
+
+What would be nice to have?
+
+Experience with different modern approaches to data transformation, management, and data pipeline integrations
+Experience with orchestration technologies such as Prefect, Airflow or Luigi. (https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
+Experience with business intelligence tools such as Tableau or PowerBI
+An understanding of data visualization design theory
+Experience with creating data visualizations with code in Python, R or Javascript
+Experience with Node.js and Javascript in general
+Experience with geospatial datasets and tools.
+Experience with Jupyter Notebooks, Excel, Tableau, data analytics, data science.
+Cloud platform experience with Amazon Web Services
+
+Additional Resources for Dashboards
+For more information about Dashboards, visit the following links:
+
+1. Python dashboarding tools  : https://pyviz.org/dashboarding/
+  https://medium.datadriveninvestor.com/streamlit-vs-dash-vs-voil%C3%A0-vs-panel-battle-of-the-python-dashboarding-giants-177c40b9ea57
+
+2. John Snow's data journalism : https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map
+
+3. https://plotly.com/python/getting-started/
+
+4. https://dash.plotly.com/
+
+5. https://dash.plotly.com/dash-core-components
+
+6. https://dash.plotly.com/dash-html-components
+
+7. https://community.plotly.com/c/dash/16
+
+8. https://realpython.com/primer-on-python-decorators/
+
+9. https://peps.python.org/pep-0318/#current-syntax
+
+10. https://dash.plotly.com/basic-callbacks
+
+11. https://dash.gallery/Portal/
+
+
+Summary
+=========
+- Best dashboards answer critical business questions. It will help business make informed decisions, thereby improving performance. 
+
+- Dashboards can produce real-time visuals. 
+
+- Plotly is an interactive, open-source plotting library that supports over 40 chart types. 
+
+- The web based visualizations created using Plotly python can be displayed in Jupyter notebook, saved to standalone HTML files, or served as part of pure Python-built web applications using Dash. 
+
+- Plotly Graph Objects is the low-level interface to figures, traces, and layout whereas plotly express is a high-level wrapper for Plotly. 
+
+- Dash is an Open-Source User Interface Python library for creating reactive, web-based applications. It is both enterprise-ready and a first-class member of Plotly’s open-source tools. 
+
+- Core and HTML are the two components of dash. 
+
+- The dash_html_components library has a component for every HTML tag. 
+
+- The dash_core_components describe higher-level components that are interactive and are generated with JavaScript, HTML, and CSS through the React.js library. 
+
+- A callback function is a python function that is automatically called by Dash whenever an input component's property changes. Callback function is decorated with `@app.callback` decorator. 
+
+- Callback decorator function takes two parameters: Input and Output. Input and Output to the callback function will have component id and component property. Multiple inputs or outputs should be enclosed inside either a list or tuple. 
